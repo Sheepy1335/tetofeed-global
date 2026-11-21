@@ -1,0 +1,15 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [ { "Name": "sheepy1335" } ],
+        "Category": "",
+        "Description": "Tetofeed: VHS dubbed in red twindrills. Red-black surfaces, scanlines and tape grain, crimson glow highlights.",
+        "Id": "sheepy.tetofeed",
+        "License": "GPL-3.0-or-later",
+        "Name": "Tetofeed",
+        "Version": "1.0"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Splash;",
+    "X-Plasma-APIVersion": "2",
+    "X-Plasma-MainScript": "defaults"
+}
