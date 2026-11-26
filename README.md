@@ -55,3 +55,4 @@ Everything at once, with the generators: [tetofeed](https://github.com/sheepy133
 - By sheepy1335, customised from [Bloodfeed Global](https://github.com/numbpill3d/bloodfeed-global) by numbpill3d. GPL-3.0-or-later.
 - Wallpaper is from [wallpapers.com](https://wallpapers.com/wallpapers/kasane-teto-digital-art-qtho2b0qil6f2n3q.html)
 - OSD font: Terminess Nerd Font (Terminus, SIL OFL 1.1), bundled with its licence.
+- Mini teto icons (/extras/icons/Tetofeed/scalable/apps) are from [Pinterest](https://www.pinterest.com/haguepvlslola/art-styles-i-find-nice/)
